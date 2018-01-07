@@ -10,106 +10,106 @@
             <img src="/static/images/logo-gray.png" alt="Zing MP3">
           </a>
         </li>
-        <li class="active">
-          <a id="navbar-mymusic" class="fn-login" href="/favorites.html" title="Nhạc cá nhân">Nhạc Cá Nhân</a>
-          <div class="megamenu submenu menu-col-1 fn-userbox">
-            <div class="subcol menu-col-1-narrow">
-              <div class="subinner_item">
-                <ul>
-                  <li>
-                    <a href="/favorites.html" title="Yêu thích">Yêu Thích</a>
-                  </li>
-                  <li>
-                    <a href="/favorites.html" title="Playlist cá nhân">Playlist Cá Nhân</a>
-                  </li>
-                  <li>
-                    <a href="/favorites.html" title="Quan tâm">Quan tâm</a>
-                  </li>
-                  <li>
-                    <a href="/favorites.html" title="Nhạc upload">Nhạc Upload</a>
-                  </li>
-                  <li>
-                    <a href="/mychannel.html" title="Kênh của tôi" class="fn-my-channel">Kênh của tôi</a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-            <!--End .sub-col -->
-          </div>
-        </li>
+        <!--<li class="active">-->
+          <!--<a id="navbar-mymusic" class="fn-login" href="/favorites.html" title="Nhạc cá nhân">Nhạc Cá Nhân</a>-->
+          <!--<div class="megamenu submenu menu-col-1 fn-userbox">-->
+            <!--<div class="subcol menu-col-1-narrow">-->
+              <!--<div class="subinner_item">-->
+                <!--<ul>-->
+                  <!--<li>-->
+                    <!--<a href="/favorites.html" title="Yêu thích">Yêu Thích</a>-->
+                  <!--</li>-->
+                  <!--<li>-->
+                    <!--<a href="/favorites.html" title="Playlist cá nhân">Playlist Cá Nhân</a>-->
+                  <!--</li>-->
+                  <!--<li>-->
+                    <!--<a href="/favorites.html" title="Quan tâm">Quan tâm</a>-->
+                  <!--</li>-->
+                  <!--<li>-->
+                    <!--<a href="/favorites.html" title="Nhạc upload">Nhạc Upload</a>-->
+                  <!--</li>-->
+                  <!--<li>-->
+                    <!--<a href="/mychannel.html" title="Kênh của tôi" class="fn-my-channel">Kênh của tôi</a>-->
+                  <!--</li>-->
+                <!--</ul>-->
+              <!--</div>-->
+            <!--</div>-->
+            <!--&lt;!&ndash;End .sub-col &ndash;&gt;-->
+          <!--</div>-->
+        <!--</li>-->
         <li class="separation"></li>
 
-        <li>
-          <a id="navbar-chart" title="Zing Chart" href="/chart.html">#zingchart</a>
-          <div class="megamenu submenu menu-col-4 menu-bxh">
-            <div class="subcol menu-col-1-narrow w140">
-              <div class="title-menu">#ZINGCHART</div>
-              <div class="subinner_item">
-                <ul>
-                  <li>
-                    <a title="Bài Hát" href="/chart.html">Bài hát</a>
-                  </li>
-                  <!--<li><a title="Album" href="/zing-chart-tuan-realtime/album.html">Album</a></li>-->
-                  <li>
-                    <a title="MV" href="/chart.html">MV</a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-            <!--End .sub-col -->
-            <div class="subcol menu-col-1-narrow">
-              <div class="title-menu">Tuần</div>
-              <div class="subinner_item">
-                <ul>
-                  <li>
-                    <a title="Bài Hát" href="/chart.html">Bài hát</a>
-                  </li>
-                  <li>
-                    <a title="MV" href="/chart.html">MV</a>
-                  </li>
-                  <li>
-                    <a title="Album" href="/chart.html">Album</a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-            <!--End .sub-col -->
-            <div class="subcol menu-col-1-narrow w140">
-              <div class="title-menu">US-UK Chart</div>
-              <div class="subinner_item">
-                <ul>
-                  <li>
-                    <a title="Bài Hát" href="/chart.html">Bài hát</a>
-                  </li>
-                  <li>
-                    <a title="MV" href="/chart.html">MV</a>
-                  </li>
-                  <li>
-                    <a title="Album" href="/chart.html">Album</a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-            <!--End .sub-col -->
-            <div class="subcol menu-col-1-narrow w140">
-              <div class="title-menu">Kpop Chart</div>
-              <div class="subinner_item">
-                <ul>
-                  <li>
-                    <a title="Bài Hát" href="/chart.html">Bài hát</a>
-                  </li>
-                  <li>
-                    <a title="MV" href="/chart.html">MV</a>
-                  </li>
-                  <li>
-                    <a title="Album" href="/chart.html">Album</a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-            <!--End .sub-col -->
-          </div>
-        </li>
+        <!--<li>-->
+          <!--<a id="navbar-chart" title="Zing Chart" href="/chart.html">#zingchart</a>-->
+          <!--<div class="megamenu submenu menu-col-4 menu-bxh">-->
+            <!--<div class="subcol menu-col-1-narrow w140">-->
+              <!--<div class="title-menu">#ZINGCHART</div>-->
+              <!--<div class="subinner_item">-->
+                <!--<ul>-->
+                  <!--<li>-->
+                    <!--<a title="Bài Hát" href="/chart.html">Bài hát</a>-->
+                  <!--</li>-->
+                  <!--&lt;!&ndash;<li><a title="Album" href="/zing-chart-tuan-realtime/album.html">Album</a></li>&ndash;&gt;-->
+                  <!--<li>-->
+                    <!--<a title="MV" href="/chart.html">MV</a>-->
+                  <!--</li>-->
+                <!--</ul>-->
+              <!--</div>-->
+            <!--</div>-->
+            <!--&lt;!&ndash;End .sub-col &ndash;&gt;-->
+            <!--<div class="subcol menu-col-1-narrow">-->
+              <!--<div class="title-menu">Tuần</div>-->
+              <!--<div class="subinner_item">-->
+                <!--<ul>-->
+                  <!--<li>-->
+                    <!--<a title="Bài Hát" href="/chart.html">Bài hát</a>-->
+                  <!--</li>-->
+                  <!--<li>-->
+                    <!--<a title="MV" href="/chart.html">MV</a>-->
+                  <!--</li>-->
+                  <!--<li>-->
+                    <!--<a title="Album" href="/chart.html">Album</a>-->
+                  <!--</li>-->
+                <!--</ul>-->
+              <!--</div>-->
+            <!--</div>-->
+            <!--&lt;!&ndash;End .sub-col &ndash;&gt;-->
+            <!--<div class="subcol menu-col-1-narrow w140">-->
+              <!--<div class="title-menu">US-UK Chart</div>-->
+              <!--<div class="subinner_item">-->
+                <!--<ul>-->
+                  <!--<li>-->
+                    <!--<a title="Bài Hát" href="/chart.html">Bài hát</a>-->
+                  <!--</li>-->
+                  <!--<li>-->
+                    <!--<a title="MV" href="/chart.html">MV</a>-->
+                  <!--</li>-->
+                  <!--<li>-->
+                    <!--<a title="Album" href="/chart.html">Album</a>-->
+                  <!--</li>-->
+                <!--</ul>-->
+              <!--</div>-->
+            <!--</div>-->
+            <!--&lt;!&ndash;End .sub-col &ndash;&gt;-->
+            <!--<div class="subcol menu-col-1-narrow w140">-->
+              <!--<div class="title-menu">Kpop Chart</div>-->
+              <!--<div class="subinner_item">-->
+                <!--<ul>-->
+                  <!--<li>-->
+                    <!--<a title="Bài Hát" href="/chart.html">Bài hát</a>-->
+                  <!--</li>-->
+                  <!--<li>-->
+                    <!--<a title="MV" href="/chart.html">MV</a>-->
+                  <!--</li>-->
+                  <!--<li>-->
+                    <!--<a title="Album" href="/chart.html">Album</a>-->
+                  <!--</li>-->
+                <!--</ul>-->
+              <!--</div>-->
+            <!--</div>-->
+            <!--&lt;!&ndash;End .sub-col &ndash;&gt;-->
+          <!--</div>-->
+        <!--</li>-->
         <li>
           <a id="navbar-top100" title="Top 100" href="/top100.html">Top 100</a>
           <div class="megamenu submenu menu-col-1">
@@ -178,8 +178,10 @@
                     <a title="Audiophile" href="/hot.htmlhtml">Indie</a>
                   </li>
                   <li>
-                    <a title="Nhạc Không Lời" href="/hot.htmlNhạc Không Lời</a></li>
-                                <li><a title=" Nhạc Trữ Tình & Bolero " href="/hot.htmlTình & Bolero</a>
+                    <a title="Nhạc Không Lời" href="/hot.html">Nhạc Không Lời</a>
+                  </li>
+                  <li>\
+                    <a title="Nhạc Trữ Tình & Bolero" href="/hot.html"> Nhạc Trữ Tình & Bolero</a>
                   </li>
                 </ul>
               </div>
@@ -190,7 +192,7 @@
               <div class="subinner_item">
                 <ul>
                   <li>
-                    <a title="Những Ngày Mưa" href="/hot.html"></a>Những Ngày Mưa</a>
+                    <a title="Những Ngày Mưa" href="/hot.html">Những Ngày Mưa</a>
                   </li>
                   <li>
                     <a title="Tình Yêu" href="/hot.html">Tình Yêu</a>
@@ -244,7 +246,7 @@
           <div class="megamenu submenu menu-col-4">
             <div class="subcol menu-col-1">
               <div class="title-menu">
-                <a title="Việt Nam" href="/videohot.html"></a>Việt Nam</a>
+                <a title="Việt Nam" href="/videohot.html">Việt Nam</a>
               </div>
               <div class="subinner_item">
                 <ul>
@@ -513,40 +515,40 @@
             <!--End .sub-col -->
           </div>
         </li>
-        <li class="none">
-          <a id="navbar-realtime" title="Bảng Xếp Hạng Real-time" href="/zing-chart-real-time">Real-time</a>
-        </li>
-        <li>
-          <a id="navbar-vip" title="Zing MP3 VIP" href="http://mp3.zing.vn/vip?utm_source=WebZingMP3&utm_medium=Main_Menu&utm_campaign=buyVIP"
-             target="_blank">VIP</a>
-          <div class="megamenu submenu menu-col-1">
-            <div class="subcol menu-col-1-narrow">
-              <div class="subinner_item">
-                <ul>
-                  <li>
-                    <a title="Mua VIP" href="http://mp3.zing.vn/vip?show_popup=true?utm_source=WebZingMP3&utm_medium=Submenu_buyVIP&utm_campaign=buyVIP"
-                       target="_blank">Mua VIP</a>
-                  </li>
-                  <li>
-                    <a title="Giới thiệu VIP" href="http://mp3.zing.vn/vip?utm_source=WebZingMP3&utm_medium=Submenu_intro&utm_campaign=buyVIP"
-                       target="_blank">Giới thiệu VIP</a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-            <!--End .sub-col -->
-          </div>
-        </li>
-        <li class="none">
-          <a id="" title="Zing Music Awards" href="https://awards.zing.vn#home_box_01" target="_blank">
-            <image src="https://zmp3-static.zadn.vn/skins/zmp3-v5.1/images/zma-full.png" />
-          </a>
-        </li>
+        <!--<li class="none">-->
+          <!--<a id="navbar-realtime" title="Bảng Xếp Hạng Real-time" href="/zing-chart-real-time">Real-time</a>-->
+        <!--</li>-->
+        <!--<li>-->
+          <!--<a id="navbar-vip" title="Zing MP3 VIP" href="http://mp3.zing.vn/vip?utm_source=WebZingMP3&utm_medium=Main_Menu&utm_campaign=buyVIP"-->
+             <!--target="_blank">VIP</a>-->
+          <!--<div class="megamenu submenu menu-col-1">-->
+            <!--<div class="subcol menu-col-1-narrow">-->
+              <!--<div class="subinner_item">-->
+                <!--<ul>-->
+                  <!--<li>-->
+                    <!--<a title="Mua VIP" href="http://mp3.zing.vn/vip?show_popup=true?utm_source=WebZingMP3&utm_medium=Submenu_buyVIP&utm_campaign=buyVIP"-->
+                       <!--target="_blank">Mua VIP</a>-->
+                  <!--</li>-->
+                  <!--<li>-->
+                    <!--<a title="Giới thiệu VIP" href="http://mp3.zing.vn/vip?utm_source=WebZingMP3&utm_medium=Submenu_intro&utm_campaign=buyVIP"-->
+                       <!--target="_blank">Giới thiệu VIP</a>-->
+                  <!--</li>-->
+                <!--</ul>-->
+              <!--</div>-->
+            <!--</div>-->
+            <!--&lt;!&ndash;End .sub-col &ndash;&gt;-->
+          <!--</div>-->
+        <!--</li>-->
+        <!--<li class="none">-->
+          <!--<a id="" title="Zing Music Awards" href="https://awards.zing.vn#home_box_01" target="_blank">-->
+            <!--<image src="https://zmp3-static.zadn.vn/skins/zmp3-v5.1/images/zma-full.png" />-->
+          <!--</a>-->
+        <!--</li>-->
       </ul>
       <!-- END .main-nav -->
-      <a title="Bật quảng cáo" href="#" class="toggle-ads fn-banner-off">
-        <i class="zicon icon-power"></i>Tắt quảng cáo</a>
-      <a title="Upload" href="/upload/song.html" class="zicon icon-cloud fn-login"></a>
+      <!--<a title="Bật quảng cáo" href="#" class="toggle-ads fn-banner-off">-->
+        <!--<i class="zicon icon-power"></i>Tắt quảng cáo</a>-->
+      <!--<a title="Upload" href="/upload/song.html" class="zicon icon-cloud fn-login"></a>-->
     </div>
     <!-- END .container -->
   </nav>

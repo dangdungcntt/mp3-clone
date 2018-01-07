@@ -6,43 +6,43 @@
           <span class="ztlabel">ĐỐI TÁC</span>
           <ul class="zpartner">
             <li>
-              <img src="https://zmp3-static.zadn.vn/skins/zmp3-v5.1/images/doi-tac/universal.jpeg" alt="Universal"
+              <img src="/static/images/thum/universal.jpeg" alt="Universal"
               />
             </li>
             <li>
-              <img src="https://zmp3-static.zadn.vn/skins/zmp3-v5.1/images/doi-tac/sony.png" alt="Sony Music"
+              <img src="/static/images/thum/sony.png" alt="Sony Music"
               />
             </li>
             <li>
-              <img src="https://zmp3-static.zadn.vn/skins/zmp3-v5.1/images/doi-tac/thuy-nga.png" alt="Thúy Nga"
+              <img src="/static/images/thum/thuy-nga.png" alt="Thúy Nga"
               />
             </li>
             <li>
-              <img src="https://zmp3-static.zadn.vn/skins/zmp3-v5.1/images/doi-tac/vcpmc.jpg" alt="VCPMC"
+              <img src="/static/images/thum/vcpmc.jpg" alt="VCPMC"
               />
             </li>
             <li>
-              <img src="https://zmp3-static.zadn.vn/skins/zmp3-v5.1/images/doi-tac/riav.jpg" alt="RIAV"
+              <img src="/static/images/thum/riav.jpg" alt="RIAV"
               />
             </li>
             <li>
-              <img src="https://zmp3-static.zadn.vn/skins/zmp3-v5.1/images/doi-tac/kim-loi.png" alt="Kim Lợi"
+              <img src="/static/images/thum/kim-loi.png" alt="Kim Lợi"
               />
             </li>
             <li>
-              <img src="https://zmp3-static.zadn.vn/skins/zmp3-v5.1/images/doi-tac/phuong-nam.jpg" alt="Phương Nam"
+              <img src="/static/images/thum/phuong-nam.jpg" alt="Phương Nam"
               />
             </li>
             <li>
-              <img src="https://zmp3-static.zadn.vn/skins/zmp3-v5.1/images/doi-tac/rang-dong.jpg" alt="Rạng Đông"
+              <img src="/static/images/thum/rang-dong.jpg" alt="Rạng Đông"
               />
             </li>
             <li>
-              <img src="https://zmp3-static.zadn.vn/skins/zmp3-v5.1/images/doi-tac/vafaco.jpg" alt="Vafaco"
+              <img src="/static/images/thum/vafaco.jpg" alt="Vafaco"
               />
             </li>
             <li>
-              <img src="https://zmp3-static.zadn.vn/skins/zmp3-v5.1/images/doi-tac/ben-thanh.jpg" alt="Bến Thành"
+              <img src="/static/images/thum/ben-thanh.jpg" alt="Bến Thành"
               />
             </li>
           </ul>

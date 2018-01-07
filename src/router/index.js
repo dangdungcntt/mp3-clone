@@ -1,12 +1,9 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import lodash from 'lodash'
-import VueLodash from 'vue-lodash'
-
-import Home from 'Components/home/index'
 
 Vue.use(Router);
-Vue.use(VueLodash, lodash);
+
+import Home from 'Components/home/index'
 
 export default new Router({
   mode: 'history',

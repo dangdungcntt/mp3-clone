@@ -40,7 +40,7 @@
 
           <li class="fn-first first-item fn-item chart-video-sidebar">
             <a class="zthumb fn-link" href="/video-clip/Talk-To-Me-Co-Nen-Dung-Lai-Chi-Pu/ZW9AZBF9.html#home_chartvideovietnam_01">
-              <img class="fn-thumb" src="https://zmp3-photo.zadn.vn/banner/3/b/3bc9a8a53b6f5db681774bf64ce1a5d3_1514822089.jpg" alt="Bài hát Talk To Me (Có Nên Dừng Lại?) - Chi Pu"
+              <img class="fn-thumb" src="/static/images/thum/3bc9a8a53b6f5db681774bf64ce1a5d3_1514822089.jpg" alt="Bài hát Talk To Me (Có Nên Dừng Lại?) - Chi Pu"
               />
             </a>
             <div class="des">
@@ -70,7 +70,7 @@
 
           <li class="fn-item chart-video-sidebar">
             <a class="thumb pull-left fn-link" href="/video-clip/I-Want-You-Now-Huong-Tram/ZW9AZDF6.html#home_chartvideovietnam_02">
-              <img width="110" class="fn-thumb" src="https://zmp3-photo.zadn.vn/thumb/240_135/thumb_video/2/0/2094ad81c295366705fdbbef03926e55_1513944169.jpg"
+              <img width="110" class="fn-thumb" src="/static/images/thum/2094ad81c295366705fdbbef03926e55_1513944169.jpg"
                    alt="Bài hát I Want You Now - Hương Tràm" />
               <span class="rank fn-order">02</span>
               <span class="item-mask"></span>
@@ -97,7 +97,7 @@
 
           <li class="fn-item chart-video-sidebar">
             <a class="thumb pull-left fn-link" href="/video-clip/Dieu-Em-Can-Chi-La-Anh-Minh-Hang/ZW8WC8Z9.html#home_chartvideovietnam_03">
-              <img width="110" class="fn-thumb" src="https://zmp3-photo.zadn.vn/thumb/240_135/thumb_video/f/a/fac49eefd3c5119526d61d3cc398d852_1513131189.jpg"
+              <img width="110" class="fn-thumb" src="/static/images/thum/fac49eefd3c5119526d61d3cc398d852_1513131189.jpg"
                    alt="Bài hát Điều Em Cần Chỉ Là Anh - Minh Hằng" />
               <span class="rank fn-order">03</span>
               <span class="item-mask"></span>
@@ -124,7 +124,7 @@
 
           <li class="fn-item chart-video-sidebar">
             <a class="thumb pull-left fn-link" href="/video-clip/Xmas-Yeu-Thuong-CARA-JSOL/ZW9AZWUU.html#home_chartvideovietnam_04">
-              <img width="110" class="fn-thumb" src="https://zmp3-photo.zadn.vn/thumb/240_135/thumb_video/7/3/735b69259492a8ccf8a52f0b26f932e9_1513681018.jpg"
+              <img width="110" class="fn-thumb" src="/static/images/thum/735b69259492a8ccf8a52f0b26f932e9_1513681018.jpg"
                    alt="Bài hát Xmas Yêu Thương - CARA,JSOL" />
               <span class="rank fn-order">04</span>
               <span class="item-mask"></span>
@@ -156,7 +156,7 @@
 
           <li class="fn-item chart-video-sidebar">
             <a class="thumb pull-left fn-link" href="/video-clip/Qua-Nhieu-Ung-Dai-Ve/ZW8WD9O7.html#home_chartvideovietnam_05">
-              <img width="110" class="fn-thumb" src="https://zmp3-photo.zadn.vn/thumb/240_135/thumb_video/1/9/1907b9ed4e3a7f3b1444101c3a5f15d5_1513686808.jpg"
+              <img width="110" class="fn-thumb" src="/static/images/thum/1907b9ed4e3a7f3b1444101c3a5f15d5_1513686808.jpg"
                    alt="Bài hát Quá Nhiều - Ưng Đại Vệ" />
               <span class="rank fn-order">05</span>
               <span class="item-mask"></span>
@@ -202,7 +202,7 @@
 
           <li class="fn-first first-item fn-item chart-video-sidebar">
             <a class="zthumb fn-link" href="/video-clip/Perfect-Duet-Ed-Sheeran-Beyonce/ZW8WAWB0.html#home_chartvideoaumy_01">
-              <img class="fn-thumb" src="https://zmp3-photo.zadn.vn/banner/f/9/f92538fdab58c5cc640667f385dcdb34_1514260051.jpg" alt="Bài hát Perfect Duet - Ed Sheeran, Beyoncé"
+              <img class="fn-thumb" src="/static/images/thum/f92538fdab58c5cc640667f385dcdb34_1514260051.jpg" alt="Bài hát Perfect Duet - Ed Sheeran, Beyoncé"
               />
             </a>
             <div class="des">
@@ -234,7 +234,7 @@
 
           <li class="fn-item chart-video-sidebar">
             <a class="thumb pull-left fn-link" href="/video-clip/Echame-La-Culpa-Luis-Fonsi-Demi-Lovato/ZW8W7897.html#home_chartvideoaumy_02">
-              <img width="110" class="fn-thumb" src="https://zmp3-photo.zadn.vn/thumb/240_135/thumb_video/6/d/6dbdc88f84e241a12fe30e59f214792a_1510980882.jpg"
+              <img width="110" class="fn-thumb" src="/static/images/thum/6dbdc88f84e241a12fe30e59f214792a_1510980882.jpg"
                    alt="Bài hát Échame La Culpa - Luis Fonsi, Demi Lovato" />
               <span class="rank fn-order">02</span>
               <span class="item-mask"></span>
@@ -264,7 +264,7 @@
 
           <li class="fn-item chart-video-sidebar">
             <a class="thumb pull-left fn-link" href="/video-clip/Shape-Of-You-Ed-Sheeran/ZW78D8WC.html#home_chartvideoaumy_03">
-              <img width="110" class="fn-thumb" src="https://zmp3-photo.zadn.vn/thumb/240_135/thumb_video/1/6/167dca29e2554b89bba5cb0f548dab58_1486047082.jpg"
+              <img width="110" class="fn-thumb" src="/static/images/thum/167dca29e2554b89bba5cb0f548dab58_1486047082.jpg"
                    alt="Bài hát Shape Of You - Ed Sheeran" />
               <span class="rank fn-order">03</span>
               <span class="item-mask"></span>
@@ -289,7 +289,7 @@
 
           <li class="fn-item chart-video-sidebar">
             <a class="thumb pull-left fn-link" href="/video-clip/Havana-Camila-Cabello-Young-Thug/ZW80E696.html#home_chartvideoaumy_04">
-              <img width="110" class="fn-thumb" src="https://zmp3-photo.zadn.vn/thumb/240_135/thumb_video/f/2/f24edbe8b40f5afa026a37eff7a0f0bc_1508986016.jpg"
+              <img width="110" class="fn-thumb" src="/static/images/thum/f24edbe8b40f5afa026a37eff7a0f0bc_1508986016.jpg"
                    alt="Bài hát Havana - Camila Cabello, Young Thug" />
               <span class="rank fn-order">04</span>
               <span class="item-mask"></span>
@@ -319,7 +319,7 @@
 
           <li class="fn-item chart-video-sidebar">
             <a class="thumb pull-left fn-link" href="/video-clip/Despacito-Luis-Fonsi-Daddy-Yankee/ZW78E7BB.html#home_chartvideoaumy_05">
-              <img width="110" class="fn-thumb" src="https://zmp3-photo.zadn.vn/thumb/240_135/thumb_video/9/1/914ebac3fa1ab4560da81eb0bca70203_1484362799.jpg"
+              <img width="110" class="fn-thumb" src="/static/images/thum/914ebac3fa1ab4560da81eb0bca70203_1484362799.jpg"
                    alt="Bài hát Despacito - Luis Fonsi, Daddy Yankee" />
               <span class="rank fn-order">05</span>
               <span class="item-mask"></span>
@@ -368,7 +368,7 @@
 
           <li class="fn-first first-item fn-item chart-video-sidebar">
             <a class="zthumb fn-link" href="/video-clip/Peek-A-Boo-Red-Velvet/ZW8W78CI.html#home_chartvideohanquoc_01">
-              <img class="fn-thumb" src="https://zmp3-photo.zadn.vn/banner/0/7/07919f45b07942af5250f93d3c7047c1_1512287282.jpg" alt="Bài hát Peek-A-Boo - Red Velvet"
+              <img class="fn-thumb" src="/static/images/thum/07919f45b07942af5250f93d3c7047c1_1512287282.jpg" alt="Bài hát Peek-A-Boo - Red Velvet"
               />
             </a>
             <div class="des">
@@ -395,7 +395,7 @@
 
           <li class="fn-item chart-video-sidebar">
             <a class="thumb pull-left fn-link" href="/video-clip/Likey-TWICE/ZW8WO7BA.html#home_chartvideohanquoc_02">
-              <img width="110" class="fn-thumb" src="https://zmp3-photo.zadn.vn/thumb/240_135/thumb_video/1/0/1040fae84b9dc37d97d8a1a7795dde77_1509354482.jpg"
+              <img width="110" class="fn-thumb" src="/static/images/thum/1040fae84b9dc37d97d8a1a7795dde77_1509354482.jpg"
                    alt="Bài hát Likey - TWICE" />
               <span class="rank fn-order">02</span>
               <span class="item-mask"></span>
@@ -419,7 +419,7 @@
 
           <li class="fn-item chart-video-sidebar">
             <a class="thumb pull-left fn-link" href="/video-clip/JUST-DANCE-Boy-Ver-Mixnine/ZW8W8ICW.html#home_chartvideohanquoc_03">
-              <img width="110" class="fn-thumb" src="https://zmp3-photo.zadn.vn/thumb/240_135/thumb_video/b/0/b058429f6f8353fa90fdfc1ac49ab28b_1511145089.jpg"
+              <img width="110" class="fn-thumb" src="/static/images/thum/b058429f6f8353fa90fdfc1ac49ab28b_1511145089.jpg"
                    alt="Bài hát JUST DANCE (Boy Ver) - Mixnine" />
               <span class="rank fn-order">03</span>
               <span class="item-mask"></span>
@@ -444,7 +444,7 @@
 
           <li class="fn-item chart-video-sidebar">
             <a class="thumb pull-left fn-link" href="/video-clip/MIC-Drop-Steve-Aoki-Remix-BTS-Desiigner/ZW8W9IZE.html#home_chartvideohanquoc_04">
-              <img width="110" class="fn-thumb" src="https://zmp3-photo.zadn.vn/thumb/240_135/thumb_video/3/9/394659692a460258b45a99f1424ea357_1511588983.jpg"
+              <img width="110" class="fn-thumb" src="/static/images/thum/394659692a460258b45a99f1424ea357_1511588983.jpg"
                    alt="Bài hát MIC Drop (Steve Aoki Remix) - BTS, Desiigner" />
               <span class="rank fn-order">04</span>
               <span class="item-mask"></span>
@@ -474,7 +474,7 @@
 
           <li class="fn-item chart-video-sidebar">
             <a class="thumb pull-left fn-link" href="/video-clip/Beautiful-Movie-Ver-Wanna-One/ZW8W6688.html#home_chartvideohanquoc_05">
-              <img width="110" class="fn-thumb" src="https://zmp3-photo.zadn.vn/thumb/240_135/thumb_video/e/2/e2ab9c8beaae3f704f8edc4da6c1db6f_1510593418.jpg"
+              <img width="110" class="fn-thumb" src="/static/images/thum/e2ab9c8beaae3f704f8edc4da6c1db6f_1510593418.jpg"
                    alt="Bài hát Beautiful (Movie Ver.) - Wanna One" />
               <span class="rank fn-order">05</span>
               <span class="item-mask"></span>

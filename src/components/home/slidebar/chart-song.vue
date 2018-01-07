@@ -49,7 +49,7 @@
               data-active="show-tool" id="chartitemsongZW8WD9BE">
 
             <a class="zthumb fn-link" href="/bai-hat/Buon-Cua-Anh-K-ICM-Dat-G-Masew/ZW8WD9BE.html#home_chartsongvietnam_01">
-              <img class="fn-thumb" src="https://zmp3-photo.zadn.vn/banner/1/0/108bbcfcb20d17a027d596ef3a959578_1514801472.jpg" alt="Bài hát Buồn Của Anh - K-ICM, Đạt G, Masew"
+              <img class="fn-thumb" src="/static/images/thum/108bbcfcb20d17a027d596ef3a959578_1514801472.jpg" alt="Bài hát Buồn Của Anh - K-ICM, Đạt G, Masew"
               />
             </a>
 
@@ -453,7 +453,7 @@
               data-active="show-tool" id="chartitemsongZW8WAWB0">
 
             <a class="zthumb fn-link" href="/bai-hat/Perfect-Duet-Ed-Sheeran-Beyonce/ZW8WAWB0.html#home_chartsongaumy_01">
-              <img class="fn-thumb" src="https://zmp3-photo.zadn.vn/banner/f/9/f92538fdab58c5cc640667f385dcdb34_1514272151.jpg" alt="Bài hát Perfect Duet - Ed Sheeran, Beyoncé"
+              <img class="fn-thumb" src="/static/images/thum/f92538fdab58c5cc640667f385dcdb34_1514272151.jpg" alt="Bài hát Perfect Duet - Ed Sheeran, Beyoncé"
               />
             </a>
 
@@ -842,7 +842,7 @@
               data-active="show-tool" id="chartitemsongZW8W7UWZ">
 
             <a class="zthumb fn-link" href="/bai-hat/Yes-Yoon-Jong-Shin-Minseo/ZW8W7UWZ.html#home_chartsonghanquoc_01">
-              <img class="fn-thumb" src="https://zmp3-photo.zadn.vn/banner/6/6/6685326902c9b4eed352824e49f9418d_1512286534.jpg" alt="Bài hát Yes - Yoon Jong Shin, Minseo"
+              <img class="fn-thumb" src="/static/images/thum/6685326902c9b4eed352824e49f9418d_1512286534.jpg" alt="Bài hát Yes - Yoon Jong Shin, Minseo"
               />
             </a>
 

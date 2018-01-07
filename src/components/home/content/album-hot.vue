@@ -16,7 +16,7 @@
       <div class="album-item col-3 fn-item">
         <a href="/album/Thay-La-Yeu-Thuong-Single-OnlyC/ZO698ZBW.html#home_albumhot_01" title="Thấy Là Yêu Thương (Single) - OnlyC"
            class="thumb fn-link _trackLink" tracking="_frombox=#home_albumhot_01">
-          <img src="https://zmp3-photo.zadn.vn/thumb/240_240/covers/b/2/b2c0638904fb8f20547dd66f8f18d279_1510887342.jpg" alt="Thấy Là Yêu Thương (Single) - OnlyC"
+          <img src="/static/images/thum/b2c0638904fb8f20547dd66f8f18d279_1510887342.jpg" alt="Thấy Là Yêu Thương (Single) - OnlyC"
                class="img-responsive fn-thumb" />
           <span class="icon-circle-play otr"></span>
         </a>
@@ -41,7 +41,7 @@
       <div class="album-item col-3 fn-item">
         <a href="/album/Buon-Cua-Anh-Masew-Mix-Masew-Dat-G-K-ICM/ZOA9FOB9.html#home_albumhot_02" title="Buồn Của Anh (Masew Mix) - Masew, Đạt G, K-ICM"
            class="thumb fn-link _trackLink" tracking="_frombox=#home_albumhot_02">
-          <img src="https://zmp3-photo.zadn.vn/thumb/240_240/covers/0/c/0c2187d0f119c5c8b291b7222dc5d599_1514265433.jpg" alt="Buồn Của Anh (Masew Mix) - Masew, Đạt G, K-ICM"
+          <img src="/static/images/thum/0c2187d0f119c5c8b291b7222dc5d599_1514265433.jpg" alt="Buồn Của Anh (Masew Mix) - Masew, Đạt G, K-ICM"
                class="img-responsive fn-thumb" />
           <span class="icon-circle-play otr"></span>
         </a>
@@ -76,7 +76,7 @@
       <div class="album-item col-3 fn-item">
         <a href="/album/I-Want-You-Now-Single-Huong-Tram/ZOA9IB9B.html#home_albumhot_03" title="I Want You Now (Single) - Hương Tràm"
            class="thumb fn-link _trackLink" tracking="_frombox=#home_albumhot_03">
-          <img src="https://zmp3-photo.zadn.vn/thumb/240_240/covers/9/b/9bd9deb3ae77e2b2c1b7ea0ed55bae0d_1513940960.jpg" alt="I Want You Now (Single) - Hương Tràm"
+          <img src="/static/images/thum/9bd9deb3ae77e2b2c1b7ea0ed55bae0d_1513940960.jpg" alt="I Want You Now (Single) - Hương Tràm"
                class="img-responsive fn-thumb" />
           <span class="icon-circle-play otr"></span>
         </a>
@@ -101,7 +101,7 @@
       <div class="album-item col-3 fn-item">
         <a href="/album/Ai-Da-Tung-Single-Hong-Duong/ZOAAOO8W.html#home_albumhot_04" title="Ai Đã Từng (Single) - Hồng Dương" class="thumb fn-link _trackLink"
            tracking="_frombox=#home_albumhot_04">
-          <img src="https://zmp3-photo.zadn.vn/thumb/240_240/covers/5/e/5e533c26eab3d4936bbe2a62f6160631_1514360397.jpg" alt="Ai Đã Từng (Single) - Hồng Dương"
+          <img src="/static/images/thum/5e533c26eab3d4936bbe2a62f6160631_1514360397.jpg" alt="Ai Đã Từng (Single) - Hồng Dương"
                class="img-responsive fn-thumb" />
           <span class="icon-circle-play otr"></span>
         </a>
@@ -126,7 +126,7 @@
       <div class="album-item col-3 fn-item">
         <a href="/album/Goi-Em-Single-The-Wings-Band/ZOAAZC6Z.html#home_albumhot_05" title="Gọi Em (Single) - The Wings Band" class="thumb fn-link _trackLink"
            tracking="_frombox=#home_albumhot_05">
-          <img src="https://zmp3-photo.zadn.vn/thumb/240_240/covers/9/d/9dd121ca5ec0182edbc10de1499fa80d_1514427619.jpg" alt="Gọi Em (Single) - The Wings Band"
+          <img src="/static/images/thum/9dd121ca5ec0182edbc10de1499fa80d_1514427619.jpg" alt="Gọi Em (Single) - The Wings Band"
                class="img-responsive fn-thumb" />
           <span class="icon-circle-play otr"></span>
         </a>
@@ -151,7 +151,7 @@
       <div class="album-item col-3 fn-item">
         <a href="/album/City-Lights-Single-Chau-Dang-Khoa-Superbrothers/ZOAAZCW9.html#home_albumhot_06" title="City Lights (Single) - Châu Đăng Khoa, Superbrothers"
            class="thumb fn-link _trackLink" tracking="_frombox=#home_albumhot_06">
-          <img src="https://zmp3-photo.zadn.vn/thumb/240_240/covers/9/6/966acb7d5ee73cad33166c8e15a8c39b_1514427077.jpg" alt="City Lights (Single) - Châu Đăng Khoa, Superbrothers"
+          <img src="/static/images/thum/966acb7d5ee73cad33166c8e15a8c39b_1514427077.jpg" alt="City Lights (Single) - Châu Đăng Khoa, Superbrothers"
                class="img-responsive fn-thumb" />
           <span class="icon-circle-play otr"></span>
         </a>
@@ -182,7 +182,7 @@
         <a href="/album/Album-Sing-My-Song-season-1-Team-Nguyen-Hai-Phong-Hong-Ngoc-Ung-Dai-Ve-Phan-Manh-Quynh-Vicky-Nhung-GREY-D-Doan-The-Lan-Tran-Dung-Khanh-Bui-Cong-Nam/ZOA8FO8A.html#home_albumhot_07"
            title="Album Sing My Song season 1 - Team Nguyễn Hải Phong - Hồng Ngọc, Ưng Đại Vệ, Phan Mạnh Quỳnh, Vicky Nhung, GREY-D (Đoàn Thế Lân), Trần Dũng Khánh, Bùi Công Nam"
            class="thumb fn-link _trackLink" tracking="_frombox=#home_albumhot_07">
-          <img src="https://zmp3-photo.zadn.vn/thumb/240_240/covers/8/7/87237c507b06127ff00364df4e728fad_1513951311.png" alt="Album Sing My Song season 1 - Team Nguyễn Hải Phong - Hồng Ngọc, Ưng Đại Vệ, Phan Mạnh Quỳnh, Vicky Nhung, GREY-D (Đoàn Thế Lân), Trần Dũng Khánh, Bùi Công Nam"
+          <img src="/static/images/thum/87237c507b06127ff00364df4e728fad_1513951311.png" alt="Album Sing My Song season 1 - Team Nguyễn Hải Phong - Hồng Ngọc, Ưng Đại Vệ, Phan Mạnh Quỳnh, Vicky Nhung, GREY-D (Đoàn Thế Lân), Trần Dũng Khánh, Bùi Công Nam"
                class="img-responsive fn-thumb" />
           <span class="icon-circle-play otr"></span>
         </a>
@@ -208,7 +208,7 @@
       <div class="album-item col-3 fn-item">
         <a href="/album/The-Greatest-Showman-OST-Various-Artists/ZOAA978U.html#home_albumhot_08" title="The Greatest Showman OST - Various Artists"
            class="thumb fn-link _trackLink" tracking="_frombox=#home_albumhot_08">
-          <img src="https://zmp3-photo.zadn.vn/thumb/240_240/covers/4/4/44f914886aa4481469c11d072ac779e0_1514519322.jpg" alt="The Greatest Showman OST - Various Artists"
+          <img src="/static/images/thum/44f914886aa4481469c11d072ac779e0_1514519322.jpg" alt="The Greatest Showman OST - Various Artists"
                class="img-responsive fn-thumb" />
           <span class="icon-circle-play otr"></span>
         </a>
@@ -233,7 +233,7 @@
       <div class="album-item col-3 fn-item">
         <a href="/album/Havana-Single-Camila-Cabello/ZO6Z0B88.html#home_albumhot_09" title="Havana (Single) - Camila Cabello" class="thumb fn-link _trackLink"
            tracking="_frombox=#home_albumhot_09">
-          <img src="https://zmp3-photo.zadn.vn/thumb/240_240/covers/0/f/0fd3396bba682ea4657f6377ccfd913d_1501779500.jpg" alt="Havana (Single) - Camila Cabello"
+          <img src="/static/images/thum/0fd3396bba682ea4657f6377ccfd913d_1501779500.jpg" alt="Havana (Single) - Camila Cabello"
                class="img-responsive fn-thumb" />
           <span class="icon-circle-play otr"></span>
         </a>
@@ -258,7 +258,7 @@
       <div class="album-item col-3 fn-item">
         <a href="/album/SO-HOT-THEBLACKLABEL-Remix-Black-Pink/ZOAAW6U0.html#home_albumhot_10" title="SO HOT (THEBLACKLABEL Remix) - Black Pink"
            class="thumb fn-link _trackLink" tracking="_frombox=#home_albumhot_10">
-          <img src="https://zmp3-photo.zadn.vn/thumb/240_240/covers/5/7/57bf2a340289f99b678b0beaf6cf7304_1514344709.jpg" alt="SO HOT (THEBLACKLABEL Remix) - Black Pink"
+          <img src="/static/images/thum/57bf2a340289f99b678b0beaf6cf7304_1514344709.jpg" alt="SO HOT (THEBLACKLABEL Remix) - Black Pink"
                class="img-responsive fn-thumb" />
           <span class="icon-circle-play otr"></span>
         </a>
@@ -283,7 +283,7 @@
       <div class="album-item col-3 fn-item">
         <a href="/album/I-m-Not-A-Robot-OST-Part-3-Kim-Yeon-Ji/ZOAA8WZW.html#home_albumhot_11" title="I’m Not A Robot OST Part.3 - Kim Yeon Ji"
            class="thumb fn-link _trackLink" tracking="_frombox=#home_albumhot_11">
-          <img src="https://zmp3-photo.zadn.vn/thumb/240_240/covers/4/b/4b1c59c7728e2b1cb65f6cb20aaf5cf9_1514472557.jpg" alt="I’m Not A Robot OST Part.3 - Kim Yeon Ji"
+          <img src="/static/images/thum/4b1c59c7728e2b1cb65f6cb20aaf5cf9_1514472557.jpg" alt="I’m Not A Robot OST Part.3 - Kim Yeon Ji"
                class="img-responsive fn-thumb" />
           <span class="icon-circle-play otr"></span>
         </a>
@@ -308,7 +308,7 @@
       <div class="album-item col-3 fn-item">
         <a href="/album/Yes-I-Do-Single-OnlyC-Lou-Hoang/ZOAB8W6I.html#home_albumhot_12" title="Yes I Do (Single) - OnlyC, Lou Hoàng"
            class="thumb fn-link _trackLink" tracking="_frombox=#home_albumhot_12">
-          <img src="https://zmp3-photo.zadn.vn/thumb/240_240/covers/0/0/0037fa44fb1ffa4a5ec148a4c14dccdf_1514868841.jpg" alt="Yes I Do (Single) - OnlyC, Lou Hoàng"
+          <img src="/static/images/thum/0037fa44fb1ffa4a5ec148a4c14dccdf_1514868841.jpg" alt="Yes I Do (Single) - OnlyC, Lou Hoàng"
                class="img-responsive fn-thumb" />
           <span class="icon-circle-play otr"></span>
         </a>

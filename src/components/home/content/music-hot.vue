@@ -11,30 +11,13 @@
               <i class="icon-arrow"></i>
             </a>
           </h2>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
           <ul>
 
             <li id="songhotZW9AZDF6" class="fn-song" data-type="song" data-id="ZW9AZDF6" data-code="LHxntknsxmGWkLmTmyFnZnTLWZpHniQhz"
                 data-sig="d2ea8f7031def8b42ff8b3803284d247" data-active="show-tool">
               <a class="thumb pull-left _trackLink track-log" tracking="_frombox=#home_hotsong_01_listen" href="/bai-hat/I-Want-You-Now-Huong-Tram/ZW9AZDF6.html#home_hotsong_01_listen"
                  title="Bài hát I Want You Now - ">
-                <img width="50" alt="I Want You Now" src="https://zmp3-photo.zadn.vn/thumb/94_94/covers/9/b/9bd9deb3ae77e2b2c1b7ea0ed55bae0d_1513940960.jpg"
+                <img width="50" alt="I Want You Now" src="/static/images/thum/9bd9deb3ae77e2b2c1b7ea0ed55bae0d_1513940960.jpg"
                 />
                 <span class="icon-circle-play icon-small"></span>
               </a>
@@ -66,7 +49,7 @@
                 data-sig="a7dfb423a41e8de894a68fecf3752110" data-active="show-tool">
               <a class="thumb pull-left _trackLink track-log" tracking="_frombox=#home_hotsong_02_listen" href="/bai-hat/Chuyen-Anh-Van-Chua-Ke-Chi-Dan/ZW8WCUW0.html#home_hotsong_02_listen"
                  title="Bài hát Chuyện Anh Vẫn Chưa Kể - ">
-                <img width="50" alt="Chuyện Anh Vẫn Chưa Kể" src="https://zmp3-photo.zadn.vn/thumb/94_94/covers/2/7/27e28f2246089f1f54390eb6bd6d218b_1512960423.jpg"
+                <img width="50" alt="Chuyện Anh Vẫn Chưa Kể" src="/static/images/thum/27e28f2246089f1f54390eb6bd6d218b_1512960423.jpg"
                 />
                 <span class="icon-circle-play icon-small"></span>
               </a>
@@ -98,7 +81,7 @@
                 data-sig="1b5744c89fbb25f73747545ef7341eb9" data-active="show-tool">
               <a class="thumb pull-left _trackLink track-log" tracking="_frombox=#home_hotsong_03_listen" href="/bai-hat/Hai-The-Gioi-Will/ZW8WD8BA.html#home_hotsong_03_listen"
                  title="Bài hát Hai Thế Giới - ">
-                <img width="50" alt="Hai Thế Giới" src="https://zmp3-photo.zadn.vn/thumb/94_94/covers/d/2/d297e383c0b4026f075c771184ab893b_1513564989.jpg"
+                <img width="50" alt="Hai Thế Giới" src="/static/images/thum/d297e383c0b4026f075c771184ab893b_1513564989.jpg"
                 />
                 <span class="icon-circle-play icon-small"></span>
               </a>
@@ -130,7 +113,7 @@
                 data-sig="daa0dda9544e07e24f6e6b2c4bcf2b76" data-active="show-tool">
               <a class="thumb pull-left _trackLink track-log" tracking="_frombox=#home_hotsong_04_listen" href="/bai-hat/Talk-To-Me-Co-Nen-Dung-Lai-Chi-Pu/ZW9AZBF9.html#home_hotsong_04_listen"
                  title="Bài hát Talk To Me (Có Nên Dừng Lại?) - ">
-                <img width="50" alt="Talk To Me (Có Nên Dừng Lại?)" src="https://zmp3-photo.zadn.vn/thumb/94_94/covers/d/5/d5cbb0c38968891e70551b370c8106d1_1513848565.jpg"
+                <img width="50" alt="Talk To Me (Có Nên Dừng Lại?)" src="/static/images/thum/d5cbb0c38968891e70551b370c8106d1_1513848565.jpg"
                 />
                 <span class="icon-circle-play icon-small"></span>
               </a>
@@ -162,7 +145,7 @@
                 data-sig="fae21bb9c6fc6ad944dd4efe5b79e36d" data-active="show-tool">
               <a class="thumb pull-left _trackLink track-log" tracking="_frombox=#home_hotsong_05_listen" href="/bai-hat/Tinh-Yeu-Cham-Tre-MONSTAR/ZW8WBDCB.html#home_hotsong_05_listen"
                  title="Bài hát Tình Yêu Chậm Trễ - ">
-                <img width="50" alt="Tình Yêu Chậm Trễ" src="https://zmp3-photo.zadn.vn/thumb/94_94/covers/d/b/db24cba9ff431ccbce0a3683c56a461e_1512721186.jpg"
+                <img width="50" alt="Tình Yêu Chậm Trễ" src="/static/images/thum/db24cba9ff431ccbce0a3683c56a461e_1512721186.jpg"
                 />
                 <span class="icon-circle-play icon-small"></span>
               </a>
@@ -194,7 +177,7 @@
                 data-sig="1eb5826c0ae0c0e772322e46100e72de" data-active="show-tool">
               <a class="thumb pull-left _trackLink track-log" tracking="_frombox=#home_hotsong_06_listen" href="/bai-hat/Thang-Nam-Ben-Nhau-Ho-Quynh-Huong/ZW8WBDUU.html#home_hotsong_06_listen"
                  title="Bài hát Tháng Năm Bên Nhau - ">
-                <img width="50" alt="Tháng Năm Bên Nhau" src="https://zmp3-photo.zadn.vn/thumb/94_94/covers/7/9/797556b03f790db366ff4a65cd0e6589_1512701905.jpg"
+                <img width="50" alt="Tháng Năm Bên Nhau" src="/static/images/thum/797556b03f790db366ff4a65cd0e6589_1512701905.jpg"
                 />
                 <span class="icon-circle-play icon-small"></span>
               </a>
@@ -226,7 +209,7 @@
                 data-sig="aa7376388871504ed75a5632130173e6" data-active="show-tool">
               <a class="thumb pull-left _trackLink track-log" tracking="_frombox=#home_hotsong_07_listen" href="/bai-hat/Without-You-Hari-Won/ZW8WBO6B.html#home_hotsong_07_listen"
                  title="Bài hát Without You - ">
-                <img width="50" alt="Without You" src="https://zmp3-photo.zadn.vn/thumb/94_94/covers/6/a/6a249547f991fca132dbb74ecd37054e_1512470064.jpg"
+                <img width="50" alt="Without You" src="/static/images/thum/6a249547f991fca132dbb74ecd37054e_1512470064.jpg"
                 />
                 <span class="icon-circle-play icon-small"></span>
               </a>
@@ -258,7 +241,7 @@
                 data-sig="08f34a7fc4d6f1ab3cdbedee65a188d2" data-active="show-tool">
               <a class="thumb pull-left _trackLink track-log" tracking="_frombox=#home_hotsong_08_listen" href="/bai-hat/Thay-La-Yeu-Thuong-OnlyC-Lou-Hoang/ZW8W777E.html#home_hotsong_08_listen"
                  title="Bài hát Thấy Là Yêu Thương - ">
-                <img width="50" alt="Thấy Là Yêu Thương" src="https://zmp3-photo.zadn.vn/thumb/94_94/covers/b/2/b2c0638904fb8f20547dd66f8f18d279_1510887342.jpg"
+                <img width="50" alt="Thấy Là Yêu Thương" src="/static/images/thum/b2c0638904fb8f20547dd66f8f18d279_1510887342.jpg"
                 />
                 <span class="icon-circle-play icon-small"></span>
               </a>
@@ -294,7 +277,7 @@
                 data-sig="18a00afd0829e80fee373b38662b39b8" data-active="show-tool">
               <a class="thumb pull-left _trackLink track-log" tracking="_frombox=#home_hotsong_09_listen" href="/bai-hat/Come-Back-Home-Vu-Cat-Tuong/ZW8W906O.html#home_hotsong_09_listen"
                  title="Bài hát Come Back Home - ">
-                <img width="50" alt="Come Back Home" src="https://zmp3-photo.zadn.vn/thumb/94_94/covers/0/5/05635c33435344d92cf763dbc9cef088_1511496854.jpg"
+                <img width="50" alt="Come Back Home" src="/static/images/thum/05635c33435344d92cf763dbc9cef088_1511496854.jpg"
                 />
                 <span class="icon-circle-play icon-small"></span>
               </a>
@@ -326,7 +309,7 @@
                 data-sig="476788d1fe53e3e64606165865904494" data-active="show-tool">
               <a class="thumb pull-left _trackLink track-log" tracking="_frombox=#home_hotsong_10_listen" href="/bai-hat/Buon-Cua-Anh-K-ICM-Dat-G-Masew/ZW8WD9BE.html#home_hotsong_10_listen"
                  title="Bài hát Buồn Của Anh - ">
-                <img width="50" alt="Buồn Của Anh" src="https://zmp3-photo.zadn.vn/thumb/94_94/covers/c/0/c0827e5f2c898fc987e7883151b0476a_1513651595.png"
+                <img width="50" alt="Buồn Của Anh" src="/static/images/thum/c0827e5f2c898fc987e7883151b0476a_1513651595.png"
                 />
                 <span class="icon-circle-play icon-small"></span>
               </a>
@@ -405,7 +388,7 @@
                 data-sig="b8efa5def1eff2aec47dcef5ca92de73" data-active="show-tool">
               <a class="thumb pull-left _trackLink track-log" tracking="_frombox=#home_newsong_01_listen" href="/bai-hat/Khong-Con-Binh-Yen-Juun-Dang-Dung/ZW9A67II.html#home_newsong_01_listen"
                  title="Bài hát Không Còn Bình Yên - ">
-                <img width="50" alt="Không Còn Bình Yên" src="https://zmp3-photo.zadn.vn/thumb/94_94/covers/1/9/19c75f0bfa09926ef4a67765dcc00f3b_1514276511.jpg"
+                <img width="50" alt="Không Còn Bình Yên" src="/static/images/thum/19c75f0bfa09926ef4a67765dcc00f3b_1514276511.jpg"
                 />
                 <span class="icon-circle-play icon-small"></span>
               </a>
@@ -437,7 +420,7 @@
                 data-sig="07479083dd64154f5caaf8374eaa5e1f" data-active="show-tool">
               <a class="thumb pull-left _trackLink track-log" tracking="_frombox=#home_newsong_02_listen" href="/bai-hat/Mashup-Rapcoustic-2-Den-Kimmese-Lynk-Lee/ZW9A6W0C.html#home_newsong_02_listen"
                  title="Bài hát Mashup Rapcoustic 2 - ">
-                <img width="50" alt="Mashup Rapcoustic 2" src="https://zmp3-photo.zadn.vn/thumb/94_94/covers/7/f/7f40780cec28cf770cae267a3374411c_1514092595.jpg"
+                <img width="50" alt="Mashup Rapcoustic 2" src="/static/images/thum/7f40780cec28cf770cae267a3374411c_1514092595.jpg"
                 />
                 <span class="icon-circle-play icon-small"></span>
               </a>
@@ -477,7 +460,7 @@
                 data-sig="f2eeb6f559d37e09903e2bca4ea67719" data-active="show-tool">
               <a class="thumb pull-left _trackLink track-log" tracking="_frombox=#home_newsong_03_listen" href="/bai-hat/Chuc-Em-Ngu-Ngon-Uni5/ZW9A6IBW.html#home_newsong_03_listen"
                  title="Bài hát Chúc Em Ngủ Ngon - ">
-                <img width="50" alt="Chúc Em Ngủ Ngon" src="https://zmp3-photo.zadn.vn/thumb/94_94/covers/f/9/f90cac256c3467970f497c15e8885a9c_1514077809.jpg"
+                <img width="50" alt="Chúc Em Ngủ Ngon" src="/static/images/thum/f90cac256c3467970f497c15e8885a9c_1514077809.jpg"
                 />
                 <span class="icon-circle-play icon-small"></span>
               </a>
@@ -509,7 +492,7 @@
                 data-sig="47cb813fb3dde8c9e9a1b54002068ed8" data-active="show-tool">
               <a class="thumb pull-left _trackLink track-log" tracking="_frombox=#home_newsong_04_listen" href="/bai-hat/Yeu-Chua-Bao-Gio-La-Sai-ERIK/ZW8W9CWD.html#home_newsong_04_listen"
                  title="Bài hát Yêu Chưa Bao Giờ Là Sai - ">
-                <img width="50" alt="Yêu Chưa Bao Giờ Là Sai" src="https://zmp3-photo.zadn.vn/thumb/94_94/covers/9/3/93c91b68709bf04c021f54fc1ea58959_1513131914.jpg"
+                <img width="50" alt="Yêu Chưa Bao Giờ Là Sai" src="/static/images/thum/93c91b68709bf04c021f54fc1ea58959_1513131914.jpg"
                 />
                 <span class="icon-circle-play icon-small"></span>
               </a>
@@ -541,7 +524,7 @@
                 data-sig="64f60cd6a4c9fe0cd2a0c065ede495c2" data-active="show-tool">
               <a class="thumb pull-left _trackLink track-log" tracking="_frombox=#home_newsong_05_listen" href="/bai-hat/Dan-Ong-Hay-Hua-Phu-Nu-Hay-Tin-Hamlet-Truong/ZW8WCZO0.html#home_newsong_05_listen"
                  title="Bài hát Đàn Ông Hay Hứa Phụ Nữ Hay Tin? - ">
-                <img width="50" alt="Đàn Ông Hay Hứa Phụ Nữ Hay Tin?" src="https://zmp3-photo.zadn.vn/thumb/94_94/covers/3/6/366d154fc20759ef42ad40438fded3d9_1512985020.jpg"
+                <img width="50" alt="Đàn Ông Hay Hứa Phụ Nữ Hay Tin?" src="/static/images/thum/366d154fc20759ef42ad40438fded3d9_1512985020.jpg"
                 />
                 <span class="icon-circle-play icon-small"></span>
               </a>
@@ -573,7 +556,7 @@
                 data-sig="2b9c64f79f5aad2d294ef19bbb9b3a02" data-active="show-tool">
               <a class="thumb pull-left _trackLink track-log" tracking="_frombox=#home_newsong_06_listen" href="/bai-hat/Qua-Nhieu-Ung-Dai-Ve/ZW8WD9O7.html#home_newsong_06_listen"
                  title="Bài hát Quá Nhiều - ">
-                <img width="50" alt="Quá Nhiều" src="https://zmp3-photo.zadn.vn/thumb/94_94/covers/c/f/cf8ca96f8c06356dd845e591b72fe652_1513580492.jpg"
+                <img width="50" alt="Quá Nhiều" src="/static/images/thum/cf8ca96f8c06356dd845e591b72fe652_1513580492.jpg"
                 />
                 <span class="icon-circle-play icon-small"></span>
               </a>
@@ -605,7 +588,7 @@
                 data-sig="f017f6e6d6ed7626e2a83765925cbb09" data-active="show-tool">
               <a class="thumb pull-left _trackLink track-log" tracking="_frombox=#home_newsong_07_listen" href="/bai-hat/City-Lights-Chau-Dang-Khoa-Superbrothers/ZW9A6DBI.html#home_newsong_07_listen"
                  title="Bài hát City Lights - ">
-                <img width="50" alt="City Lights" src="https://zmp3-photo.zadn.vn/thumb/94_94/covers/9/6/966acb7d5ee73cad33166c8e15a8c39b_1514427077.jpg"
+                <img width="50" alt="City Lights" src="/static/images/thum/966acb7d5ee73cad33166c8e15a8c39b_1514427077.jpg"
                 />
                 <span class="icon-circle-play icon-small"></span>
               </a>
@@ -641,7 +624,7 @@
                 data-sig="7dbaaae545adac7319c6e8194b09c9a3" data-active="show-tool">
               <a class="thumb pull-left _trackLink track-log" tracking="_frombox=#home_newsong_08_listen" href="/bai-hat/Goi-Em-The-Wings-Band/ZW9A6DBZ.html#home_newsong_08_listen"
                  title="Bài hát Gọi Em - ">
-                <img width="50" alt="Gọi Em" src="https://zmp3-photo.zadn.vn/thumb/94_94/covers/9/d/9dd121ca5ec0182edbc10de1499fa80d_1514427619.jpg"
+                <img width="50" alt="Gọi Em" src="/static/images/thum/9dd121ca5ec0182edbc10de1499fa80d_1514427619.jpg"
                 />
                 <span class="icon-circle-play icon-small"></span>
               </a>
@@ -673,7 +656,7 @@
                 data-sig="67eba102b64acd4400838c0ef375e2a8" data-active="show-tool">
               <a class="thumb pull-left _trackLink track-log" tracking="_frombox=#home_newsong_09_listen" href="/bai-hat/Se-Ve-Voi-Nhau-Rocker-Nguyen/ZW8WDA97.html#home_newsong_09_listen"
                  title="Bài hát Sẽ Về Với Nhau - ">
-                <img width="50" alt="Sẽ Về Với Nhau" src="https://zmp3-photo.zadn.vn/thumb/94_94/covers/a/c/acf435e0f77f39c1b9931040d8ba2e5f_1513648026.jpg"
+                <img width="50" alt="Sẽ Về Với Nhau" src="/static/images/thum/acf435e0f77f39c1b9931040d8ba2e5f_1513648026.jpg"
                 />
                 <span class="icon-circle-play icon-small"></span>
               </a>
@@ -705,7 +688,7 @@
                 data-sig="ece19884cf00ef74c69fdfb1879469dd" data-active="show-tool">
               <a class="thumb pull-left _trackLink track-log" tracking="_frombox=#home_newsong_10_listen" href="/bai-hat/Xin-Nhom-Nhac/ZW9AZED7.html#home_newsong_10_listen"
                  title="Bài hát Xin - ">
-                <img width="50" alt="Xin" src="https://zmp3-photo.zadn.vn/thumb/94_94/covers/4/f/4faf6feebdf7d27fe4ec9fe5ec23bb94_1513952634.jpg"
+                <img width="50" alt="Xin" src="/static/images/thum/4faf6feebdf7d27fe4ec9fe5ec23bb94_1513952634.jpg"
                 />
                 <span class="icon-circle-play icon-small"></span>
               </a>

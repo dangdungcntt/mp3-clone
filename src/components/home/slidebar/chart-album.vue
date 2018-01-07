@@ -39,7 +39,7 @@
 
           <li class="fn-first first-item fn-item">
             <a class="zthumb fn-link" href="/album/Album-Sing-My-Song-season-1-Team-Nguyen-Hai-Phong-Hong-Ngoc-Ung-Dai-Ve-Phan-Manh-Quynh-Vicky-Nhung-GREY-D-Doan-The-Lan-Tran-Dung-Khanh-Bui-Cong-Nam/ZOA8FO8A.html#home_chartalbumvietnam_01">
-              <img class="fn-thumb" src="https://zmp3-photo.zadn.vn/banner/0/9/091e6fe879d0df071921489d5d6965f3_1514861002.jpg" alt="Album Album Sing My Song season 1 - Team Nguyễn Hải Phong - Hồng Ngọc, Ưng Đại Vệ, Phan Mạnh Quỳnh, Vicky Nhung, GREY-D (Đoàn Thế Lân), Trần Dũng Khánh, Bùi Công Nam"
+              <img class="fn-thumb" src="/static/images/thum/091e6fe879d0df071921489d5d6965f3_1514861002.jpg" alt="Album Album Sing My Song season 1 - Team Nguyễn Hải Phong - Hồng Ngọc, Ưng Đại Vệ, Phan Mạnh Quỳnh, Vicky Nhung, GREY-D (Đoàn Thế Lân), Trần Dũng Khánh, Bùi Công Nam"
               />
             </a>
             <div class="des">
@@ -70,7 +70,7 @@
 
           <li class="fn-item">
             <a href="/album/Holiday-17-Thanh-Duy/ZO698FA8.html#home_chartalbumvietnam_02" class="thumb pull-left fn-link">
-              <img width="110" class="fn-thumb" src="https://zmp3-photo.zadn.vn/thumb/240_240/covers/d/c/dcbdfd74dbc950128110851f2a8689c2_1512987356.jpg"
+              <img width="110" class="fn-thumb" src="/static/images/thum/dcbdfd74dbc950128110851f2a8689c2_1512987356.jpg"
                    alt="Bài hát Holiday 17 - Thanh Duy" />
               <span class="rank fn-order">02</span>
               <span class="item-mask"></span>
@@ -97,7 +97,7 @@
 
           <li class="fn-item">
             <a href="/album/Em-Gai-Mua-Huong-Tram/ZO69O77Z.html#home_chartalbumvietnam_03" class="thumb pull-left fn-link">
-              <img width="110" class="fn-thumb" src="https://zmp3-photo.zadn.vn/thumb/240_240/covers/e/4/e4ad98e7656f451b0c9eba0aa03c7ddb_1504595022.jpg"
+              <img width="110" class="fn-thumb" src="/static/images/thum/e4ad98e7656f451b0c9eba0aa03c7ddb_1504595022.jpg"
                    alt="Bài hát Em Gái Mưa - Hương Tràm" />
               <span class="rank fn-order">03</span>
               <span class="item-mask"></span>
@@ -124,7 +124,7 @@
 
           <li class="fn-item">
             <a href="/album/Nhac-Tinh-Muon-Thuo-2-Yeu-Co-Don-Nhu-Tinh-Nhan-Duong-Trieu-Vu/ZO697FAZ.html#home_chartalbumvietnam_04" class="thumb pull-left fn-link">
-              <img width="110" class="fn-thumb" src="https://zmp3-photo.zadn.vn/thumb/240_240/covers/d/d/ddda7bc6a28813e35598e84b4f0109a9_1508926400.jpg"
+              <img width="110" class="fn-thumb" src="/static/images/thum/ddda7bc6a28813e35598e84b4f0109a9_1508926400.jpg"
                    alt="Bài hát Nhạc Tình Muôn Thuở 2 - Yêu Cô Đơn Như Tình Nhân - Dương Triệu Vũ" />
               <span class="rank fn-order">04</span>
               <span class="item-mask"></span>
@@ -151,7 +151,7 @@
 
           <li class="fn-item">
             <a href="/album/Tinh-Bo-Vo-Dam-Vinh-Hung/ZO69U7FB.html#home_chartalbumvietnam_05" class="thumb pull-left fn-link">
-              <img width="110" class="fn-thumb" src="https://zmp3-photo.zadn.vn/thumb/240_240/covers/5/7/572a7de7fca8f844225c47bd39606f36_1504685407.jpg"
+              <img width="110" class="fn-thumb" src="/static/images/thum/572a7de7fca8f844225c47bd39606f36_1504685407.jpg"
                    alt="Bài hát Tình Bơ Vơ - Đàm Vĩnh Hưng" />
               <span class="rank fn-order">05</span>
               <span class="item-mask"></span>
@@ -197,7 +197,7 @@
 
           <li class="fn-first first-item fn-item">
             <a class="zthumb fn-link" href="/album/What-Makes-You-Country-Luke-Bryan/ZO698FO6.html#home_chartalbumvietnam_01">
-              <img class="fn-thumb" src="https://zmp3-photo.zadn.vn/banner/9/f/9f4dd3a23b5502ec97c2b644013b31ff_1514273172.jpg" alt="Album What Makes You Country - Luke Bryan"
+              <img class="fn-thumb" src="/static/images/thum/9f4dd3a23b5502ec97c2b644013b31ff_1514273172.jpg" alt="Album What Makes You Country - Luke Bryan"
               />
             </a>
             <div class="des">
@@ -225,7 +225,7 @@
 
           <li class="fn-item">
             <a href="/album/reputation-Taylor-Swift/ZO698O99.html#home_chartalbumvietnam_02" class="thumb pull-left fn-link">
-              <img width="110" class="fn-thumb" src="https://zmp3-photo.zadn.vn/thumb/240_240/covers/6/3/6329aa33241f2e6a8fe1c725e8e92447_1510300791.jpg"
+              <img width="110" class="fn-thumb" src="/static/images/thum/6329aa33241f2e6a8fe1c725e8e92447_1510300791.jpg"
                    alt="Bài hát reputation - Taylor Swift" />
               <span class="rank fn-order">02</span>
               <span class="item-mask"></span>
@@ -250,7 +250,7 @@
 
           <li class="fn-item">
             <a href="/album/Divide-Ed-Sheeran/ZOZ0ZBO8.html#home_chartalbumvietnam_03" class="thumb pull-left fn-link">
-              <img width="110" class="fn-thumb" src="https://zmp3-photo.zadn.vn/thumb/240_240/covers/1/b/1b04f7368a91487d9186678a58c25147_1488472613.jpg"
+              <img width="110" class="fn-thumb" src="/static/images/thum/1b04f7368a91487d9186678a58c25147_1488472613.jpg"
                    alt="Bài hát ÷ (Divide) - Ed Sheeran" />
               <span class="rank fn-order">03</span>
               <span class="item-mask"></span>
@@ -275,7 +275,7 @@
 
           <li class="fn-item">
             <a href="/album/A-Pentatonix-Christmas-Pentatonix/ZOUZ0W80.html#home_chartalbumvietnam_04" class="thumb pull-left fn-link">
-              <img width="110" class="fn-thumb" src="https://zmp3-photo.zadn.vn/thumb/240_240/covers/d/f/df0341a78b6215bf955e18d8f398ba52_1477022908.jpg"
+              <img width="110" class="fn-thumb" src="/static/images/thum/df0341a78b6215bf955e18d8f398ba52_1477022908.jpg"
                    alt="Bài hát A Pentatonix Christmas - Pentatonix" />
               <span class="rank fn-order">04</span>
               <span class="item-mask"></span>
@@ -300,7 +300,7 @@
 
           <li class="fn-item">
             <a href="/album/Quality-Control-Jurassic-5/ZWZAA0AF.html#home_chartalbumvietnam_05" class="thumb pull-left fn-link">
-              <img width="110" class="fn-thumb" src="https://zmp3-photo.zadn.vn/thumb/240_240/covers/7/d/7d9d80a91620821d2aea36e9c289e143_1366213607.jpg"
+              <img width="110" class="fn-thumb" src="/static/images/thum/7d9d80a91620821d2aea36e9c289e143_1366213607.jpg"
                    alt="Bài hát Quality Control - Jurassic 5" />
               <span class="rank fn-order">05</span>
               <span class="item-mask"></span>
@@ -344,7 +344,7 @@
 
           <li class="fn-first first-item fn-item">
             <a class="zthumb fn-link" href="/album/1-1-0-Nothing-Without-You-Repackage-Wanna-One/ZO698U7C.html#home_chartalbumvietnam_01">
-              <img class="fn-thumb" src="https://zmp3-photo.zadn.vn/banner/0/3/0334b44f01e4347dba731dc378c49f51_1512287484.jpg" alt="Album 1 - 1 = 0 (Nothing Without You) (Repackage) - Wanna One"
+              <img class="fn-thumb" src="/static/images/thum/0334b44f01e4347dba731dc378c49f51_1512287484.jpg" alt="Album 1 - 1 = 0 (Nothing Without You) (Repackage) - Wanna One"
               />
             </a>
             <div class="des">
@@ -372,7 +372,7 @@
 
           <li class="fn-item">
             <a href="/album/Red-Diary-Page-1-Mini-Album-Bolbbalgan4/ZO697876.html#home_chartalbumvietnam_02" class="thumb pull-left fn-link">
-              <img width="110" class="fn-thumb" src="https://zmp3-photo.zadn.vn/thumb/240_240/covers/4/b/4b1c59c7728e2b1cb65f6cb20aaf5cf9_1506606237.jpg"
+              <img width="110" class="fn-thumb" src="/static/images/thum/4b1c59c7728e2b1cb65f6cb20aaf5cf9_1506606237.jpg"
                    alt="Bài hát Red Diary Page.1 (Mini Album) - Bolbbalgan4" />
               <span class="rank fn-order">02</span>
               <span class="item-mask"></span>
@@ -397,7 +397,7 @@
 
           <li class="fn-item">
             <a href="/album/Love-Yourself-Her-Mini-Album-BTS/ZO697W0C.html#home_chartalbumvietnam_03" class="thumb pull-left fn-link">
-              <img width="110" class="fn-thumb" src="https://zmp3-photo.zadn.vn/thumb/240_240/covers/e/f/efe68a041734f29bb67d964a7fdcdb10_1505727341.jpg"
+              <img width="110" class="fn-thumb" src="/static/images/thum/efe68a041734f29bb67d964a7fdcdb10_1505727341.jpg"
                    alt="Bài hát Love Yourself Her (Mini Album) - BTS" />
               <span class="rank fn-order">03</span>
               <span class="item-mask"></span>
@@ -423,7 +423,7 @@
           <li class="fn-item">
             <a href="/album/Yes-From-Monthly-Project-2017-November-Yoon-Jong-Shin-Single-Yoon-Jong-Shin-Minseo/ZO698WBE.html#home_chartalbumvietnam_04"
                class="thumb pull-left fn-link">
-              <img width="110" class="fn-thumb" src="https://zmp3-photo.zadn.vn/thumb/240_240/covers/2/8/287e30c0fac07aa98ae67b70c7ff46d4_1511632753.jpg"
+              <img width="110" class="fn-thumb" src="/static/images/thum/287e30c0fac07aa98ae67b70c7ff46d4_1511632753.jpg"
                    alt="Bài hát Yes (From Monthly Project 2017 November Yoon Jong Shin) (Single) - Yoon Jong Shin, Minseo"
               />
               <span class="rank fn-order">04</span>
@@ -455,7 +455,7 @@
 
           <li class="fn-item">
             <a href="/album/Perfect-Velvet-The-2nd-Album-Red-Velvet/ZO6986WE.html#home_chartalbumvietnam_05" class="thumb pull-left fn-link">
-              <img width="110" class="fn-thumb" src="https://zmp3-photo.zadn.vn/thumb/240_240/covers/7/2/722a31bff4d394e13847736de52cfc08_1510920844.jpg"
+              <img width="110" class="fn-thumb" src="/static/images/thum/722a31bff4d394e13847736de52cfc08_1510920844.jpg"
                    alt="Bài hát Perfect Velvet (The 2nd Album) - Red Velvet" />
               <span class="rank fn-order">05</span>
               <span class="item-mask"></span>

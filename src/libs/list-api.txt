@@ -1,0 +1,6 @@
+SEARCH: https://ac.global.mp3.zing.vn/complete/desktop?type=artist,album,video,song&num=3&query=lac
+SONG INFO: https://mp3.zing.vn/xhr/media/get-info?type=song&id=ZW8WD9BE
+SONG RESOURCE: https://mp3.zing.vn/xhr/media/get-source?type=audio&key=ZHcntZmNhzhBRBlyHyE
+SONG COUNTER: https://mp3.zing.vn/xhr/get-counter?id=ZW8WD9BE&type=audio
+SONG RANK: https://mp3.zing.vn/xhr/media/get-raking?id=ZW8WD9BE&type=audio
+CRAWL CODE: https://mp3.zing.vn/bai-hat/ZW8WD9BE.html /key=([a-zA-z]+)/
